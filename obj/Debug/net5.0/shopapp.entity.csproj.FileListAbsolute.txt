@@ -1,0 +1,12 @@
+C:\Users\SAMSUNG\Desktop\shopapp\shopapp.entity\bin\Debug\net5.0\shopapp.entity.deps.json
+C:\Users\SAMSUNG\Desktop\shopapp\shopapp.entity\bin\Debug\net5.0\shopapp.entity.dll
+C:\Users\SAMSUNG\Desktop\shopapp\shopapp.entity\bin\Debug\net5.0\shopapp.entity.pdb
+C:\Users\SAMSUNG\Desktop\shopapp\shopapp.entity\obj\Debug\net5.0\shopapp.entity.csproj.AssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\shopapp\shopapp.entity\obj\Debug\net5.0\shopapp.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\Desktop\shopapp\shopapp.entity\obj\Debug\net5.0\shopapp.entity.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\Desktop\shopapp\shopapp.entity\obj\Debug\net5.0\shopapp.entity.AssemblyInfo.cs
+C:\Users\SAMSUNG\Desktop\shopapp\shopapp.entity\obj\Debug\net5.0\shopapp.entity.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\shopapp\shopapp.entity\obj\Debug\net5.0\shopapp.entity.dll
+C:\Users\SAMSUNG\Desktop\shopapp\shopapp.entity\obj\Debug\net5.0\shopapp.entity.pdb
+C:\Users\SAMSUNG\Desktop\shopapp\shopapp.entity\obj\Debug\net5.0\ref\shopapp.entity.dll
+C:\Users\SAMSUNG\Desktop\shopapp\shopapp.entity\bin\Debug\net5.0\ref\shopapp.entity.dll
