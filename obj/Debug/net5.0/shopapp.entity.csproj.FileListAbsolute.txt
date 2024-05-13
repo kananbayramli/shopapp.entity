@@ -9,5 +9,4 @@ C:\Users\SAMSUNG\Desktop\shopapp\shopapp.entity\obj\Debug\net5.0\shopapp.entity.
 C:\Users\SAMSUNG\Desktop\shopapp\shopapp.entity\obj\Debug\net5.0\shopapp.entity.dll
 C:\Users\SAMSUNG\Desktop\shopapp\shopapp.entity\obj\Debug\net5.0\shopapp.entity.pdb
 C:\Users\SAMSUNG\Desktop\shopapp\shopapp.entity\obj\Debug\net5.0\ref\shopapp.entity.dll
-C:\Users\SAMSUNG\Desktop\shopapp\shopapp.entity\obj\Debug\net5.0\shopapp.entity.sourcelink.json
-C:\Users\SAMSUNG\Desktop\shopapp\shopapp.entity\obj\Debug\net5.0\refint\shopapp.entity.dll
+C:\Users\SAMSUNG\Desktop\shopapp\shopapp.entity\bin\Debug\net5.0\ref\shopapp.entity.dll
